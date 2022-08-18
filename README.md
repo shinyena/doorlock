@@ -7,7 +7,7 @@
 - [출입관제 서버](https://github.com/shinyena/doorserver):
   ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- [관리자 모니터링 웹](/shinyena/doorserver/views):
+- [관리자 모니터링 웹](https://github.com/shinyena/doorserver/tree/master/views):
   ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
